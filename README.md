@@ -10,3 +10,6 @@ The most recently published blog posts:
 - [XSS Exploitation in Django](https://tonybaloney.github.io/posts/xss-exploitation-in-django.html)
 
 My blog is up on my [website](//tonybaloney.github.io/#blog) along with links to all my [🎙podcast interviews](//tonybaloney.github.io/#podcasts) and [👨‍conference talks](//tonybaloney.github.io/#talks). I'm currently working on a book, so [check that out](https://realpython.com/products/cpython-internals-book/) too!
+
+<img alt="GitHub Stats"
+         src="https://github-readme-stats.vercel.app/api?username=tonybaloney&show_icons=true&theme=default&hide_border=true" />
