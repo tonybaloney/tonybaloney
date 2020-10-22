@@ -2,8 +2,8 @@
 Hi there 👋 Welcome to my GitHub Workshop! I'm Anthony Shaw, Python Software Foundation Fellow, Apache member, and Python-author.
 
 Some projects I'm working on right now that you might find interesting:
-- **Security** - [PyCharm Security](/tonybaloney/pycharm-security/), [Django XSS Fuzzer](/tonybaloney/django-xss-fuzzer/), [NetImages](/tonybaloney/netimages/)
-- **Software Testing and Quality** - [Wily](/tonybaloney/wily/), [Pytest Azure Pipelines](/tonybaloney/pytest-azurepipelines/)
+- **Security** - [PyCharm Security](https://github.com/tonybaloney/pycharm-security/), [Django XSS Fuzzer](https://github.com/tonybaloney/django-xss-fuzzer/), [NetImages](https://github.com/tonybaloney/netimages/)
+- **Software Testing and Quality** - [Wily](https://github.com/tonybaloney/wily/), [Pytest Azure Pipelines](https://github.com/tonybaloney/pytest-azurepipelines/)
 
 The most recently published blog posts:
 - [Extending Python with Assembly](https://tonybaloney.github.io/posts/extending-python-with-assembly.html)
