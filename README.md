@@ -1,5 +1,5 @@
 ![](https://github.com/tonybaloney/tonybaloney/raw/main/logo.png)
-Hi there 👋 Welcome to my GitHub Workshop! I'm Anthony Shaw, Python Software Foundation Fellow, Apache member, and Python-author.
+Hi there 👋 Welcome to my GitHub Workshop! I'm Anthony Shaw, Python Software Foundation Fellow, ASF member, and Python-author. I work at [Microsoft](https://developer.microsoft.com/en-us/advocates/anthony-shaw) on the Open-Source Advocacy team focused on Python.
 
 Some projects I'm working on right now that you might find interesting:
 - **Security** - [PyCharm Security](https://github.com/tonybaloney/pycharm-security/), [Django XSS Fuzzer](https://github.com/tonybaloney/django-xss-fuzzer/), [NetImages](https://github.com/tonybaloney/netimages/)
